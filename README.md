@@ -1,4 +1,4 @@
-# Jogo-ca-a-pontos---Parte-1
+# jogo-pega-pontos---Parte-1
 Esse jogo se trata de uma atividade do curso de Sistemas e Mídia Digitais, na cadeira de Matemática Aplicada a Multimida.
 A framework utilizada foi o Processing.
 Nessa primeira parte do código eu criei vetores que serão necessários para distribuição dos pontos no ambiente do jogo
